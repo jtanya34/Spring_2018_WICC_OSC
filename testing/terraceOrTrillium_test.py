@@ -3,7 +3,7 @@ import os
 import sys
 cwd = os.getcwd()
 sys.path.append(cwd + '/../src')
-
+#print(str(sys.path))
 
 import terraceOrTrillium
 
